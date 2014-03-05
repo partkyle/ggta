@@ -1,4 +1,3 @@
-in progress...
 image/png/testdata/pngsuite
 ===============
 

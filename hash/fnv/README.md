@@ -1,4 +1,3 @@
-in progress...
 hash/fnv
 ===============
 

@@ -1,4 +1,3 @@
-in progress...
 archive/zip/testdata
 ===============
 

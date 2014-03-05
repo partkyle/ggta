@@ -1,4 +1,3 @@
-in progress...
 go/build/testdata/other/file
 ===============
 

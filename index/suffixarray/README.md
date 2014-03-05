@@ -1,4 +1,3 @@
-in progress...
 index/suffixarray
 ===============
 

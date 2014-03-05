@@ -1,4 +1,3 @@
-in progress...
 unicode/utf16
 ===============
 

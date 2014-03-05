@@ -1,4 +1,3 @@
-in progress...
 hash/crc32
 ===============
 
